@@ -1,7 +1,3 @@
-# Project
+## GifMatch
 
-User one enter his or her information, then choose gif,
-It will bring a group of gifs according to the selected gif subject.
-Then user one is going to choose among provided gifs.
-After choosing your gif, you will be taking to the second page.
-In the second page, If user two likes the gif, they start to chat.
+A dating application that displays your matches based on you liking different gif pictures you search for on the App. You fill out your profile then as you're searching through gifs when you press the like button it will then show you a potential match based on your giffy preference.
